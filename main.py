@@ -3,6 +3,7 @@ from dialogue_tools import DialogueProxy
 from dialogue_tools import AIDialogueClient
 from dialogue_tools import HumanDialogueClient
 from dialogue_tools import DialogueManager
+from dialogue_tools import Message
 import argparse
 
 
